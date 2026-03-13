@@ -45,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Stains_Mask_T:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: e2280d3c1dce0874d8803b01077be213, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -62,12 +62,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Contrast_Blend_Mask_B: 1
-    - _Contrast_Blend_Mask_G: 0.65
-    - _Contrast_Blend_Mask_R: 0.87
-    - _Contrast_Stains_Mask: 1
+    - _Contrast_Blend_Mask_B: 1.78
+    - _Contrast_Blend_Mask_G: 1.62
+    - _Contrast_Blend_Mask_R: 1.52
+    - _Contrast_Stains_Mask: 0.4
     - _Enable_Parallax_Occlusion_Mapping: 0
-    - _Parallax_Amplitude: 1
+    - _Parallax_Amplitude: 1.9
     - _Parallax_Steps: 5
     - _Puddles_Blend_Radius_A: 0
     - _Puddles_Height_A: 0
@@ -75,15 +75,15 @@ Material:
     - _Puddles_Opacity_A: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Stains_B: 0
+    - _Stains_B: 1
     - _Stains_Smoothness_A: 0
     - _Stains_Smoothness_B: 0
     m_Colors:
     - _Offset_Blend_Mask: {r: 0, g: 0, b: 0, a: 0}
     - _Offset_General: {r: 0, g: 0, b: 0, a: 0}
     - _Offset_Stains_Mask: {r: 0, g: 0, b: 0, a: 0}
-    - _Puddles_Stains_Color_A: {r: 0.7529412, g: 0.7529412, b: 0.7529412, a: 0}
-    - _Stains_Color_B: {r: 0.35294116, g: 0.30196077, b: 0.27450976, a: 0}
+    - _Puddles_Stains_Color_A: {r: 0.764151, g: 0.764151, b: 0.764151, a: 0}
+    - _Stains_Color_B: {r: 0.013349941, g: 0.11320752, b: 0.013776746, a: 0}
     - _Tiling_Blend_Mask: {r: 1, g: 1, b: 0, a: 0}
     - _Tiling_General: {r: 1, g: 1, b: 0, a: 0}
     - _Tiling_Stains_Mask: {r: 1, g: 1, b: 0, a: 0}
