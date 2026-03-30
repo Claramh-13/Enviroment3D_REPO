@@ -564,7 +564,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &109731759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6237,6 +6237,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7640558969779515294, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -7146521406498821007, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -6763858364670572316, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2045257923548263128, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -1599826595754709761, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -1461304994638716399, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -6245,9 +6265,29 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 26ae03239338f8241bfb56c5ea264f75, type: 2}
+    - target: {fileID: -516098083770646512, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -466329591000292508, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -208595431880416365, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
       propertyPath: m_Name
       value: mesa metal_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8416272007918961125, guid: 1a9a9ef84772b914aaacd7a3a9d15e36, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8405,7 +8445,7 @@ Transform:
   m_GameObject: {fileID: 1530280651}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.11, y: 1.18, z: -0.25}
+  m_LocalPosition: {x: 0.618, y: 1.18, z: -0.527}
   m_LocalScale: {x: 0.55029804, y: 0.55029804, z: 0.55029804}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8961,7 +9001,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!215 &1672496964
 ReflectionProbe:
   m_ObjectHideFlags: 0
