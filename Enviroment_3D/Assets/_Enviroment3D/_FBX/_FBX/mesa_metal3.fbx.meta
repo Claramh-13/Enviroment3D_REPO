@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1d8232d1af349044ead7c96895408d0f
+guid: 471591c3e0f375740abb732b23db65ff
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: mesa
-    second: {fileID: 2100000, guid: 6dbdd12b0e02fbe4a94952ec573f72af, type: 2}
+    second: {fileID: 2100000, guid: 4fb45afae67e53049a375c26575fae74, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
