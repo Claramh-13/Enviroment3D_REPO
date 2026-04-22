@@ -29,11 +29,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Blend_Mask_T:
-        m_Texture: {fileID: 2800000, guid: dabf114315afdbc479e4c718c336aa92, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5654d3fb65270fb409818aa54f322f80, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Height_Maps_Combined_T:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: ccf59ef82ede91b4b9ed1b51a032857d, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask_M_AO_S_TA:
@@ -63,8 +63,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Contrast_Blend_Mask_B: 1.04
-    - _Contrast_Blend_Mask_G: 0.28
-    - _Contrast_Blend_Mask_R: 2.44
+    - _Contrast_Blend_Mask_G: 0.96
+    - _Contrast_Blend_Mask_R: 0.73
     - _Contrast_Stains_Mask: 0.4
     - _Enable_Parallax_Occlusion_Mapping: 0
     - _Parallax_Amplitude: 0.9
